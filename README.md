@@ -21,6 +21,6 @@ Conections details:
 
 - https://github.com/wayoda/LedControl
 
-## Licence
+## License
 
 MIT
