@@ -12,7 +12,7 @@
 
 ![Schematics](schematics.png)
 
-Conections details:
+Conection details:
 
 ![Schematics](zoom.png)
 
